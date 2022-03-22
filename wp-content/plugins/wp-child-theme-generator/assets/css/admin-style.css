@@ -1,0 +1,135 @@
+
+#wp-admin-bar-easy-child-theme ul {
+            height: 100%;
+            max-height: 500px;
+        }
+#wp-admin-bar-easy-child-theme ul {
+            overflow: hidden;
+            overflow-y: auto;
+        }
+
+.wctg-styled{
+    margin-right: 10px;
+	width: 100%;
+	height: 120px;
+	padding: 5px;
+	font-family: Tahoma, sans-serif;
+}
+
+.boxed{
+  width: 70%;
+  padding: 10px;
+  margin: 20px;
+  margin-left: 0%;
+  float: left;
+
+}
+
+.image-holder{
+  width: 300px;
+  border: dashed blue 1px;
+}
+
+img.thumb-image {
+    display: block;
+    max-height: 200px;    
+    margin-top: -7%;
+    width: 100%;
+}
+.notice-bar{  
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+.childtheme-container{
+    width: 100%;
+}
+
+.childtheme-sidebar{
+    width: 24%;
+    float: right;
+    margin-right: 19px;
+    margin-top: 7.4%;
+}
+
+p.text-center {
+    text-align: center;
+}
+.child-title {
+   border-bottom: 1px solid #e5e5e5 ;
+   padding: 7px;
+   margin: 1px 0;
+   text-align: left;
+   font-size: 14px;
+   line-height: 1.4;
+}
+.child-meta{
+    margin-bottom: 10px;
+}
+td.child-button {
+    float: left;
+    margin-left: -17px;
+}
+.child-table {
+   margin-left: 10px;
+  
+}.centered{
+    margin-bottom: 2%;
+    padding: 0 50px;
+}
+.theme-select-info {
+    text-align: center;
+    margin-top: 2%;
+    margin-right: 13%;
+}
+.theme-select-info p {
+  font-weight: bold;
+}
+.theme-select-info p:before {
+  font-family: dashicons;
+  content: "\f343";
+  display: block;
+}
+#postbox-child{
+    width: 100%;
+}
+
+h2.child-theme-header {
+   font-size: 14px;
+   padding: 8px 12px;
+   margin: 0;
+   line-height: 1.4;
+   border-bottom: 1px solid #e5e5e5 ;
+}
+
+h1.child-head {
+    margin: 0 0 15px;
+    font-size: 23px;
+    font-weight: 400;
+    padding: 9px 15px 4px 0;
+    line-height: 29px;
+
+}
+
+table.form-table.child-table label{
+    display: inline-block;
+    width: 220px;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 1.4em;
+}
+
+form#custom-child{
+    border-top: 1px solid #e5e5e5;
+    padding: 0 20px; 
+}
+
+.centered label{
+    font-weight: bold;
+    margin-left: -19px;
+    display: inline-block;
+    width: 200px;
+    line-height: 1.4em;
+    font-size: 13px;
+    text-align: left;
+}

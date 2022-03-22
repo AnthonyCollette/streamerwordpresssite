@@ -1,0 +1,529 @@
+# Translation of Themes - Twenty Nineteen in Dutch
+# This file is distributed under the same license as the Themes - Twenty Nineteen package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-08-22 14:47:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: nl\n"
+"Project-Id-Version: Themes - Twenty Nineteen\n"
+
+#. Description of the theme
+msgid "Our 2019 default theme is designed to show off the power of the block editor. It features custom styles for all the default blocks, and is built so that what you see in the editor looks like what you'll see on your website. Twenty Nineteen is designed to be adaptable to a wide range of websites, whether you’re running a photo blog, launching a new business, or supporting a non-profit. Featuring ample whitespace and modern sans-serif headlines paired with classic serif body text, it's built to be beautiful on all screen sizes."
+msgstr "Ons 2019 standaard thema is ontworpen om de kracht van de blok-editor te tonen. Het bevat aangepaste stijlen voor alle standaard blokken en is zo gebouwd dat wat je in de editor ziet hetzelfde is als op je website. Twenty Nineteen is ontworpen voor een breed scala aan sites, of je nu een fotoblog, een nieuw bedrijf of een goed doel steunt. Het heeft ruime witruimte en moderne sans-serif koppen gecombineerd met klassieke serif inhoudstekst, het is gemaakt om er mooi uit te zien op alle schermgroottes."
+
+#. Theme Name of the theme
+#: inc/block-patterns.php:20
+msgid "Twenty Nineteen"
+msgstr "Twenty Nineteen"
+
+#: inc/block-patterns.php:195
+msgid "We help companies communicate with their customers."
+msgstr "We helpen bedrijven te communiceren met klanten."
+
+#: inc/block-patterns.php:195
+msgid "Spark interest on social media"
+msgstr "Wek interesse op sociale media"
+
+#: inc/block-patterns.php:192
+msgid "We help businesses grow."
+msgstr "We helpen je bedrijf te laten groeien."
+
+#: inc/block-patterns.php:192
+msgid "Activate new customers"
+msgstr "Activeer nieuwe klanten"
+
+#: inc/block-patterns.php:189
+msgid "We help startups define (or refine) a clear brand identity."
+msgstr "We helpen start-ups bij het definiëren (of verfijnen) van een duidelijke merkidentiteit."
+
+#: inc/block-patterns.php:189
+msgid "Redefine brands"
+msgstr "Merken opnieuw definieren"
+
+#: inc/block-patterns.php:179 inc/block-patterns.php:186
+msgid "What We Do"
+msgstr "Wat wij doen"
+
+#: inc/block-patterns.php:167
+msgid "Oddly enough, Doug Watson also grew up working alongside his parents at a family-owned restaurant in Queens, NY. He &nbsp;worked on digital campaigns for Fortune 500 Companies before joining Eva Green Consulting."
+msgstr "Vreemd genoeg groeide Doug Watson ook op met zijn ouders in een door een familie gerund restaurant in Queens, NY. Voordat hij bij Eva Green Consulting kwam, werkte hij aan digitale campagnes voor Fortune 500 bedrijven."
+
+#: inc/block-patterns.php:164
+msgid "Doug Watson"
+msgstr "Doug Watson"
+
+#: inc/block-patterns.php:159
+msgid "Eva Young grew up working alongside her parents at their restaurant in Queens, NY. She opened Eva Young Consulting in 2014 to help small businesses like her parents’ restaurant adapt to the digital age."
+msgstr "Eva Young groeide op met haar ouders in hun restaurant in Queens, NY. Ze opende Eva Young Consulting in 2014 om kleine bedrijven zoals het restaurant van haar ouders te helpen zich aan te passen aan het digitale tijdperk."
+
+#: inc/block-patterns.php:156
+msgid "Eva Young"
+msgstr "Eva Young"
+
+#: inc/block-patterns.php:145 inc/block-patterns.php:152
+msgid "Team"
+msgstr "Team"
+
+#: inc/block-patterns.php:131
+msgid "Content Strategy"
+msgstr "Inhoud strategie"
+
+#: inc/block-patterns.php:126
+msgid "Copywriting"
+msgstr "Copywriting"
+
+#: inc/block-patterns.php:121
+msgid "Marketing"
+msgstr "Marketing"
+
+#: inc/block-patterns.php:114
+msgid "Social Media"
+msgstr "Sociale media"
+
+#: inc/block-patterns.php:109
+msgid "Mobile"
+msgstr "Mobiel"
+
+#: inc/block-patterns.php:104
+msgid "Website Design"
+msgstr "Site ontwerp"
+
+#: inc/block-patterns.php:103 inc/block-patterns.php:108
+#: inc/block-patterns.php:113 inc/block-patterns.php:120
+#: inc/block-patterns.php:125 inc/block-patterns.php:130
+#: inc/block-patterns.php:155 inc/block-patterns.php:163
+msgid "Gradient"
+msgstr "Verloop"
+
+#: inc/block-patterns.php:92 inc/block-patterns.php:98
+msgid "Services"
+msgstr "Diensten"
+
+#: inc/block-patterns.php:80
+msgid "Contact Us"
+msgstr "Neem contact met ons op"
+
+#: inc/block-patterns.php:74
+msgid "example@example.com"
+msgstr "example@example.com"
+
+#: inc/block-patterns.php:74
+msgid "(555) 555-5555"
+msgstr "(555) 555-5555"
+
+#: inc/block-patterns.php:69
+msgid "New York, New York 10023"
+msgstr "New York, New York 10023"
+
+#: inc/block-patterns.php:69
+msgid "20 Cooper Avenue"
+msgstr "20 Cooper Avenue"
+
+#: inc/block-patterns.php:58 inc/block-patterns.php:64
+msgid "Get In Touch"
+msgstr "Neem contact op"
+
+#: inc/block-patterns.php:46
+msgid "Learn More"
+msgstr "Leer meer"
+
+#: inc/block-patterns.php:42
+msgid "Eva Young Consulting was founded in 2014 to meet the needs of small businesses in the San Francisco Bay Area. We help startups define a clear brand identity and digital strategy that will carry them through their financing rounds and scale as their business grows. Discover how we can boost your brand with a unique and powerful digital marketing strategy."
+msgstr "Eva Young Consulting is in 2014 opgericht om te voldoen aan de behoeften van kleine bedrijven in de San Francisco Bay Area. We helpen start-ups bij het definiëren van een duidelijke merkidentiteit en digitale strategie die hen door hun financieringsrondes zullen helpen en opschalen naarmate hun bedrijf groeit. Ontdek hoe we je merk een boost kunnen geven met een unieke en krachtige digitale marketingstrategie."
+
+#: inc/block-patterns.php:39
+msgid "Advocating for Businesses and Entrepreneurs since 2014"
+msgstr "Pleit voor bedrijven en ondernemers sinds 2014"
+
+#: inc/block-patterns.php:33
+msgid "About"
+msgstr "Over"
+
+#: classes/class-twentynineteen-walker-comment.php:98
+msgid "Your comment is awaiting moderation. This is a preview; your comment will be visible after it has been approved."
+msgstr "Je reactie is in afwachting van moderatie. Dit is een voorbeeld; je reactie wordt zichtbaar nadat deze is goedgekeurd."
+
+#: functions.php:154
+msgid "Dark Blue"
+msgstr "Donkerblauw"
+
+#: functions.php:149
+msgid "Blue"
+msgstr "Blauw"
+
+#. translators: %s: Parent post link.
+#: single.php:31
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%s</span>"
+msgstr "<span class=\"meta-nav\">Gepubliceerd in</span><span class=\"post-title\">%s</span>"
+
+#: image.php:87
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><br><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Gepubliceerd in</span><br><span class=\"post-title\">%title</span>"
+
+#: template-parts/content/content-excerpt.php:18
+#: template-parts/content/content.php:18
+msgctxt "post"
+msgid "Featured"
+msgstr "Uitgelicht"
+
+#. translators: %s: WordPress version.
+#. translators: %s: WordPress version.
+#. translators: %s: WordPress version.
+#: inc/back-compat.php:43 inc/back-compat.php:60 inc/back-compat.php:83
+msgid "Twenty Nineteen requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+msgstr "Twenty Nineteen heeft op z'n minst WordPress versie 4.7 nodig. Deze site draait op versie %s. Update je site naar de laatste versie en probeer het nog eens."
+
+#: inc/template-functions.php:143
+msgid "Back"
+msgstr "Terug"
+
+#: inc/template-functions.php:136
+msgid "More"
+msgstr "Meer"
+
+#: inc/customizer.php:98
+msgid "Apply a filter to featured images using the primary color"
+msgstr "Voeg een filter toe aan uitgelichte afbeeldingen met de primaire kleur"
+
+#: inc/customizer.php:78
+msgid "Apply a custom color for buttons, links, featured images, etc."
+msgstr "Voeg een zelf gekozen kleur toe voor buttons, linkjes, uitgelichte afbeeldingen, etc."
+
+#: inc/customizer.php:56
+msgctxt "primary color"
+msgid "Custom"
+msgstr "Aangepast"
+
+#: inc/customizer.php:55
+msgctxt "primary color"
+msgid "Default"
+msgstr "Standaard"
+
+#: functions.php:169
+msgid "White"
+msgstr "Wit"
+
+#: functions.php:164
+msgid "Light Gray"
+msgstr "Lichtgrijs"
+
+#: functions.php:159
+msgid "Dark Gray"
+msgstr "Donkergrijs"
+
+#: functions.php:137
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:136
+msgid "Huge"
+msgstr "Enorm"
+
+#: functions.php:131
+msgid "L"
+msgstr "L"
+
+#: functions.php:130
+msgid "Large"
+msgstr "Groot"
+
+#: functions.php:125
+msgid "M"
+msgstr "M"
+
+#: functions.php:124
+msgid "Normal"
+msgstr "Normaal"
+
+#: functions.php:119
+msgid "S"
+msgstr "S"
+
+#: functions.php:118
+msgid "Small"
+msgstr "Klein"
+
+#: footer.php:37 functions.php:60
+msgid "Footer Menu"
+msgstr "Footer menu"
+
+#: image.php:70
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Volledige grootte"
+
+#: image.php:56
+msgid "Page"
+msgstr "Pagina"
+
+#: functions.php:196
+msgid "Add widgets here to appear in your footer."
+msgstr "Voeg hier widgets toe die in de footer verschijnen."
+
+#: functions.php:194 template-parts/footer/footer-widgets.php:12
+msgid "Footer"
+msgstr "Footer"
+
+#: inc/customizer.php:53
+msgid "Primary Color"
+msgstr "Primaire kleur"
+
+#: template-parts/post/discussion-meta.php:18
+msgid "No comments"
+msgstr "Geen reacties"
+
+#. translators: %d: Number of comments.
+#: template-parts/post/discussion-meta.php:16
+msgid "%d Comment"
+msgid_plural "%d Comments"
+msgstr[0] "%d reactie"
+msgstr[1] "%d reacties"
+
+#: template-parts/post/author-bio.php:26
+msgid "View more posts"
+msgstr "Bekijk meer berichten"
+
+#. translators: %s: Post author.
+#: template-parts/post/author-bio.php:17
+msgid "Published by %s"
+msgstr "Gepubliceerd door %s"
+
+#: template-parts/header/site-branding.php:33
+msgid "Top Menu"
+msgstr "Bovenste menu"
+
+#. translators: %s: Post title.
+#. translators: %s: Post title. Only visible to screen readers.
+#. translators: %s: Post title. Only visible to screen readers.
+#: functions.php:225 template-parts/content/content-single.php:27
+#: template-parts/content/content.php:36
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "<span class=\"screen-reader-text\">\"%s\"</span> verder lezen"
+
+#: image.php:52 template-parts/content/content-page.php:27
+#: template-parts/content/content-single.php:40
+#: template-parts/content/content.php:49
+msgid "Pages:"
+msgstr "Pagina's:"
+
+#: template-parts/content/content-none.php:46
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Het lijkt erop dat wij niet kunnen vinden wat jij zoekt. Wellicht dat de zoekfunctie kan helpen."
+
+#: template-parts/content/content-none.php:39
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Er kwam niets kwam overeen met je zoektermen. Probeer het opnieuw met een aantal andere keywords."
+
+#. translators: %s: Link to WP admin new post page.
+#: template-parts/content/content-none.php:26
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Klaar om je eerste bericht te publiceren? <a href=\"%s\">Begin hier</a>."
+
+#: template-parts/content/content-none.php:16
+msgid "Nothing Found"
+msgstr "Niets gevonden"
+
+#: single.php:42
+msgid "Previous post:"
+msgstr "Vorig bericht:"
+
+#: single.php:41
+msgid "Previous Post"
+msgstr "Vorig bericht"
+
+#: single.php:39
+msgid "Next post:"
+msgstr "Volgend bericht:"
+
+#: single.php:38
+msgid "Next Post"
+msgstr "Volgend bericht"
+
+#: search.php:22
+msgid "Search results for: "
+msgstr "Zoekresultaten voor: "
+
+#: inc/template-tags.php:234
+msgid "Older posts"
+msgstr "Oudere berichten"
+
+#: inc/template-tags.php:230
+msgid "Newer posts"
+msgstr "Nieuwere berichten"
+
+#: inc/template-tags.php:104
+msgid "Tags:"
+msgstr "Tags:"
+
+#: inc/template-tags.php:92
+msgid "Posted in"
+msgstr "Geplaatst in"
+
+#. translators: Used between list items, there is a space after the comma.
+#. translators: Used between list items, there is a space after the comma.
+#: inc/template-tags.php:86 inc/template-tags.php:98
+msgid ", "
+msgstr ", "
+
+#. translators: %s: Post title. Only visible to screen readers.
+#: inc/template-tags.php:63
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Laat een reactie achter<span class=\"screen-reader-text\"> op %s</span>"
+
+#: inc/template-tags.php:46
+msgid "Posted by"
+msgstr "Geplaatst door"
+
+#: inc/template-functions.php:82
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-functions.php:80
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-functions.php:92
+msgid "Archives:"
+msgstr "Archief:"
+
+#. translators: %s: Taxonomy singular name.
+#: inc/template-functions.php:90
+msgid "%s Archives:"
+msgstr "%s archief:"
+
+#: inc/template-functions.php:86
+msgid "Post Type Archives: "
+msgstr "Berichttype archief: "
+
+#: inc/template-functions.php:84
+msgid "Daily Archives: "
+msgstr "Dagelijks archief: "
+
+#: inc/template-functions.php:82
+msgid "Monthly Archives: "
+msgstr "Maandelijks archief: "
+
+#: inc/template-functions.php:80
+msgid "Yearly Archives: "
+msgstr "Jaarlijks archief: "
+
+#: inc/template-functions.php:78
+msgid "Author Archives: "
+msgstr "Auteur archief: "
+
+#: inc/template-functions.php:76
+msgid "Tag Archives: "
+msgstr "Tag archief: "
+
+#: inc/template-functions.php:74
+msgid "Category Archives: "
+msgstr "Categorie archief: "
+
+#. translators: %s: Post title. Only visible to screen readers.
+#. translators: %s: Post title. Only visible to screen readers.
+#. translators: %s: Post title. Only visible to screen readers.
+#: inc/template-tags.php:120 template-parts/content/content-page.php:41
+#: template-parts/header/entry-header.php:32
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Bewerk <span class=\"screen-reader-text\">%s</span>"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Naar de inhoud springen"
+
+#: functions.php:61 template-parts/header/site-branding.php:46
+msgid "Social Links Menu"
+msgstr "Sociale links menu"
+
+#: functions.php:59
+msgid "Primary"
+msgstr "Primair"
+
+#. translators: %s: WordPress.
+#: footer.php:28
+msgid "Proudly powered by %s."
+msgstr "Ondersteund door %s."
+
+#: comments.php:116
+msgid "Comments are closed."
+msgstr "Reacties zijn gesloten."
+
+#: comments.php:96
+msgid "Next"
+msgstr "Volgende"
+
+#: comments.php:95
+msgid "Previous"
+msgstr "Vorige"
+
+#: comments.php:92 comments.php:95 comments.php:96
+msgid "Comments"
+msgstr "Reacties"
+
+#. translators: 1: Number of comments, 2: Post title.
+#: comments.php:44
+msgctxt "comments title"
+msgid "%1$s reply on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s replies on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s reactie op &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s reacties op &ldquo;%2$s&rdquo;"
+
+#. translators: %s: Post title.
+#: comments.php:40
+msgctxt "comments title"
+msgid "One reply on &ldquo;%s&rdquo;"
+msgstr "Één reactie op &ldquo;%s&rdquo;"
+
+#: comments.php:35 comments.php:105 comments.php:107
+msgid "Leave a comment"
+msgstr "Laat een reactie achter"
+
+#: comments.php:33
+msgid "Join the Conversation"
+msgstr "Doe mee met de conversatie"
+
+#: classes/class-twentynineteen-walker-comment.php:96
+msgid "Your comment is awaiting moderation."
+msgstr "Je reactie is in afwachting van goedkeuring."
+
+#: classes/class-twentynineteen-walker-comment.php:89
+msgid "Edit"
+msgstr "Bewerk"
+
+#. translators: 1: Comment date, 2: Comment time.
+#: classes/class-twentynineteen-walker-comment.php:78
+msgid "%1$s at %2$s"
+msgstr "%1$s om %2$s"
+
+#. translators: %s: Comment author link.
+#: classes/class-twentynineteen-walker-comment.php:59
+msgid "%s <span class=\"screen-reader-text says\">says:</span>"
+msgstr "%s <span class=\"screen-reader-text says\">zei:</span>"
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Het lijkt erop dat er niets gevonden is op deze locatie. Probeer het eens met een zoekopdracht?"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Deze pagina kon niet worden gevonden."
+
+#. Theme URI of the theme
+msgid "https://wordpress.org/themes/twentynineteen/"
+msgstr "https://wordpress.org/themes/twentynineteen/"
+
+#. Author of the theme
+msgid "the WordPress team"
+msgstr "het WordPress team"
+
+#. Author URI of the theme
+#: footer.php:25
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"

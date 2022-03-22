@@ -1,0 +1,26 @@
+== Changelog ==
+
+= 1.0.3 - 23-02-2022 =
+* Enhancement - Reusable block CSS.
+* Added       - Review notice.
+
+= 1.0.2 - 25-01-2022 =
+* Fix         - Color palette in WP 5.9.
+* Fix         - Section block in WP 5.9.
+* Fix         - Dynamic CSS issues on editor in WP 5.9.
+* Fix         - Color Picker UI in WP 5.9.
+* Fix         - Library modal design in WP 5.9.
+* Enhancement - Block layouts.
+
+= 1.0.1 - 12-01-2022 =
+* Fix         - Library templates count.
+* Enhancement - Section block alignment support.
+* Enhancement - Widget block CSS generation and loading on frontend.
+* Enhancement - Block settings on widget and customize screens.
+* Fix         - Block recovery issue on widget and customize screens.
+* Enhancement - Copy and paste styles on older version of WordPress.
+* Enhancement - Blocks live preview on customize screen.
+* Enhancement - Section block editor CSS.
+
+= 1.0.0 - 02-12-2021 =
+* Initial release

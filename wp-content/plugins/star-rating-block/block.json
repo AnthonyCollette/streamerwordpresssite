@@ -1,0 +1,14 @@
+{
+	"name": "ideabox/star-rating",
+	"title": "Star Rating",
+	"category": "widgets",
+	"icon": "star-empty",
+	"description": "The Star Rating block allows you to display author-assigned star ratings within your content.",
+	"textdomain": "ib-star-rating",
+	"supports": {
+		"html": false
+	},
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css"
+}

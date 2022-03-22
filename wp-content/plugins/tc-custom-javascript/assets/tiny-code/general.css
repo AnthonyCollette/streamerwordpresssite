@@ -1,0 +1,31 @@
+
+.tccj-main-container {
+	margin-right: 300px;
+}
+
+.tccj-content-container {
+	float: left;
+	width: 100%;
+	padding-top: 20px;
+}
+
+.tccj-content-container .CodeMirror {
+	border: 1px solid #eee;
+	height: auto;
+}
+
+.tccj-sidebar {
+	float: right;
+	margin-right: -300px;
+	width: 280px;
+}
+
+@media only screen and (max-width: 850px) {
+	.tccj-main-container {
+		margin: 0;
+	}
+	.tccj-sidebar {
+		margin-right: 0;
+		width: 100%;
+	}
+}

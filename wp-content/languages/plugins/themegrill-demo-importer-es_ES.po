@@ -1,0 +1,1026 @@
+# Translation of Plugins - ThemeGrill Demo Importer - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - ThemeGrill Demo Importer - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-01-12 09:42:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - ThemeGrill Demo Importer - Stable (latest release)\n"
+
+#: includes/admin/views/html-admin-page-importer.php:85
+#: includes/admin/views/html-admin-page-importer.php:173
+msgid "Pro Plus"
+msgstr "Pro Plus"
+
+#: includes/admin/views/html-admin-page-importer.php:120
+#: includes/admin/views/html-admin-page-importer.php:151
+#: includes/admin/views/html-admin-page-importer.php:261
+msgid "Upgrade Theme Plan"
+msgstr "Plan de actualización del tema"
+
+#: includes/class-demo-importer.php:556
+msgid "This demo requires %1$s version of %2$s as well as %3$s version of %4$s plugins to get imported"
+msgstr "Para poder ser importada, esta demostración necesita la versión %1$s de %2$s, así como la versión %3$s de %4$s"
+
+#: includes/class-demo-importer.php:121
+msgid "Demo Importer Status"
+msgstr "Estado del importador de la demostración"
+
+#: includes/admin/views/html-admin-page-demo-import-faqs.php:62
+msgid "View More FAQ's"
+msgstr "Ver más FAQ"
+
+#: includes/admin/views/html-admin-page-demo-import-faqs.php:36
+msgid "An error has occurred, which probably means our server is down. Try again later."
+msgstr "Ha ocurrido un error, lo que probablemente significa que nuestro servidor está caído. Inténtalo de nuevo más tarde."
+
+#: includes/admin/views/html-admin-page-demo-import-faqs.php:28
+msgid "Error fetching the FAQ's"
+msgstr "Error al obtener las FAQ"
+
+#: includes/admin/views/html-admin-page-demo-import-faqs.php:11
+#: includes/admin/views/html-admin-page-status.php:14
+msgid "FAQ's"
+msgstr "FAQ"
+
+#: includes/admin/views/html-admin-page-system-status-report.php:358
+msgid "Copy System Status"
+msgstr "Copiar el estado del sistema"
+
+#: includes/admin/views/html-admin-page-system-status-report.php:351
+msgid "While creating support request, please provide us the details generated below within the support request. It might help us to tackle on the issue more conviniently."
+msgstr "Al crear una petición de soporte, por favor, proporciónanos dentro de la petición de soporte los detalles generados a continuación. Eso podría ayudarnos a resolver el problema más adecuadamente."
+
+#: includes/admin/views/html-admin-page-system-status-report.php:348
+msgid "Copy &amp; Paste"
+msgstr "Copiar y pegar"
+
+#: includes/admin/views/html-admin-page-system-status-report.php:304
+msgid "Inactive Plugins"
+msgstr "Plugins inactivos"
+
+#: includes/admin/views/html-admin-page-system-status-report.php:257
+msgid "Active Plugins"
+msgstr "Plugins activos"
+
+#: includes/admin/views/html-admin-page-system-status-report.php:245
+msgid "Parent Theme Author URL:"
+msgstr "URL del autor del tema padre:"
+
+#: includes/admin/views/html-admin-page-system-status-report.php:240
+msgid "Parent Theme Author:"
+msgstr "Autor del tema padre:"
+
+#: includes/admin/views/html-admin-page-system-status-report.php:235
+msgid "Parent Theme Version:"
+msgstr "Versión del tema padre:"
+
+#: includes/admin/views/html-admin-page-system-status-report.php:230
+msgid "Parent Theme Name:"
+msgstr "Nombre del tema padre:"
+
+#. translators: 1. Opening anchor tag for ThemeGrill Child Tutorial, 2. Closing
+#. the anchor tag
+#: includes/admin/views/html-admin-page-system-status-report.php:220
+msgid "If you want to modify the features of the theme then, we recommend you to use %1$s child theme. %2$s"
+msgstr "Si quieres modificar las características del tema, te recomendamos que uses un %1$s tema hijo. %2$s"
+
+#: includes/admin/views/html-admin-page-system-status-report.php:213
+msgid "Child Theme:"
+msgstr "Tema hijo:"
+
+#: includes/admin/views/html-admin-page-system-status-report.php:208
+msgid "Author URL:"
+msgstr "URL del autor:"
+
+#: includes/admin/views/html-admin-page-system-status-report.php:203
+msgid "Author:"
+msgstr "Autor:"
+
+#: includes/admin/views/html-admin-page-system-status-report.php:193
+msgid "Name:"
+msgstr "Nombre:"
+
+#: includes/admin/views/html-admin-page-system-status-report.php:186
+msgid "Theme Info"
+msgstr "Información del tema"
+
+#: includes/admin/views/html-admin-page-system-status-report.php:175
+msgid "ThemeGrill Demo Importer Version:"
+msgstr "Versión de ThemeGrill Demo Importer:"
+
+#: includes/admin/views/html-admin-page-system-status-report.php:170
+msgid "Script Debug Mode Enabled:"
+msgstr "Modo de depuración de scripts activado:"
+
+#: includes/admin/views/html-admin-page-system-status-report.php:165
+msgid "Debug Mode Enabled:"
+msgstr "Modo de depuración activado:"
+
+#: includes/admin/views/html-admin-page-system-status-report.php:160
+msgid "Language:"
+msgstr "Idioma:"
+
+#: includes/admin/views/html-admin-page-system-status-report.php:156
+msgid "Plain"
+msgstr "Simple"
+
+#: includes/admin/views/html-admin-page-system-status-report.php:155
+msgid "Permalink Structure:"
+msgstr "Estructura de los enlaces permanentes:"
+
+#: includes/admin/views/html-admin-page-system-status-report.php:150
+msgid "Max Memory Limit:"
+msgstr "Límite máximo de memoria:"
+
+#: includes/admin/views/html-admin-page-system-status-report.php:145
+msgid "Memory Limit:"
+msgstr "Límite de memoria:"
+
+#: includes/admin/views/html-admin-page-system-status-report.php:140
+msgid "Max Upload Size:"
+msgstr "Tamaño máximo de subida:"
+
+#: includes/admin/views/html-admin-page-system-status-report.php:135
+msgid "Multisite:"
+msgstr "Multisitio:"
+
+#: includes/admin/views/html-admin-page-system-status-report.php:130
+msgid "Home URL:"
+msgstr "URL de inicio:"
+
+#: includes/admin/views/html-admin-page-system-status-report.php:125
+msgid "Site URL:"
+msgstr "URL del sitio:"
+
+#: includes/admin/views/html-admin-page-system-status-report.php:120
+#: includes/admin/views/html-admin-page-system-status-report.php:198
+msgid "Version:"
+msgstr "Versión:"
+
+#: includes/admin/views/html-admin-page-system-status-report.php:113
+msgid "WordPress Info"
+msgstr "Información de WordPress"
+
+#: includes/admin/views/html-admin-page-system-status-report.php:102
+msgid "Demo Pack Server Connection:"
+msgstr "Conexión con el servidor del paquete de demostración:"
+
+#: includes/admin/views/html-admin-page-system-status-report.php:97
+msgid "Write Permission:"
+msgstr "Permisos de escritura:"
+
+#: includes/admin/views/html-admin-page-system-status-report.php:91
+msgid "GD version:"
+msgstr "Versión de GD:"
+
+#: includes/admin/views/html-admin-page-system-status-report.php:85
+msgid "GD Installed:"
+msgstr "GD instalado:"
+
+#: includes/admin/views/html-admin-page-system-status-report.php:79
+msgid "cURL version:"
+msgstr "Versión de cURL:"
+
+#: includes/admin/views/html-admin-page-system-status-report.php:74
+#: includes/admin/views/html-admin-page-system-status-report.php:86
+#: includes/admin/views/html-admin-page-system-status-report.php:136
+#: includes/admin/views/html-admin-page-system-status-report.php:166
+#: includes/admin/views/html-admin-page-system-status-report.php:171
+#: includes/admin/views/html-admin-page-system-status-report.php:214
+msgid "No"
+msgstr "No"
+
+#: includes/admin/views/html-admin-page-system-status-report.php:74
+#: includes/admin/views/html-admin-page-system-status-report.php:86
+#: includes/admin/views/html-admin-page-system-status-report.php:136
+#: includes/admin/views/html-admin-page-system-status-report.php:166
+#: includes/admin/views/html-admin-page-system-status-report.php:171
+#: includes/admin/views/html-admin-page-system-status-report.php:214
+msgid "Yes"
+msgstr "Sí"
+
+#: includes/admin/views/html-admin-page-system-status-report.php:73
+msgid "cURL Installed:"
+msgstr "cURL instalado:"
+
+#: includes/admin/views/html-admin-page-system-status-report.php:68
+msgid "PHP Memory Limit:"
+msgstr "Límite de memoria de PHP:"
+
+#: includes/admin/views/html-admin-page-system-status-report.php:63
+msgid "PHP Max Input Vars:"
+msgstr "Máximas entradas de variables de PHP:"
+
+#: includes/admin/views/html-admin-page-system-status-report.php:58
+msgid "PHP Post Max Size:"
+msgstr "Tamaño máximo de envíos PHP:"
+
+#: includes/admin/views/html-admin-page-system-status-report.php:53
+msgid "PHP Max Upload Size:"
+msgstr "Tamaño máximo de subida de PHP:"
+
+#: includes/admin/views/html-admin-page-system-status-report.php:48
+msgid "PHP Max Execution Time:"
+msgstr "Tiempo máximo de ejecución de PHP:"
+
+#: includes/admin/views/html-admin-page-system-status-report.php:43
+msgid "PHP Version:"
+msgstr "Versión de PHP:"
+
+#: includes/admin/views/html-admin-page-system-status-report.php:38
+msgid "MySQL Version:"
+msgstr "Versión de MySQL:"
+
+#: includes/admin/views/html-admin-page-system-status-report.php:33
+msgid "Server:"
+msgstr "Servidor:"
+
+#: includes/admin/views/html-admin-page-system-status-report.php:28
+msgid "Operating System:"
+msgstr "Sistema operativo:"
+
+#: includes/admin/views/html-admin-page-system-status-report.php:21
+msgid "System Info"
+msgstr "Información del sistema"
+
+#: includes/admin/views/html-admin-page-status.php:13
+#: includes/admin/views/html-admin-page-system-status-report.php:16
+msgid "System Status"
+msgstr "Estado del sistema"
+
+#: includes/admin/class-demo-importer-status.php:62
+msgid "Connected"
+msgstr "Conectado"
+
+#: includes/admin/class-demo-importer-status.php:60
+msgid "There is a connection issue of your site to our demo pack services."
+msgstr "En tu sitio hay un problema de conexión con nuestros servicios del paquete de demostración."
+
+#: includes/admin/class-demo-importer-status.php:43
+msgid "There are some write permission errors on your site."
+msgstr "En tu sitio hay algunos errores de permisos de escritura."
+
+#: includes/admin/class-demo-importer-status.php:41
+msgid "All Fine"
+msgstr "Todo bien"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:1138
+msgid "The uploaded file could not be moved"
+msgstr "No se puede mover el archivo subido"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:1123
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr "Lo siento, este tipo de archivo no está permitido por razones de seguridad."
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:1085
+msgid "Downloaded file has incorrect size"
+msgstr "El archivo descargado tiene un tamaño incorrecto"
+
+#. translators: 1: The HTTP error message. 2: The HTTP error code.
+#: includes/importers/wordpress-importer/class-wxr-importer.php:1061
+msgid "Remote server returned the following unexpected result: %1$s (%2$s)"
+msgstr "El servidor remoto ha devuelto el siguiente resultado inesperado: %1$s (%2$s)"
+
+#. translators: 1: The WordPress error message. 2: The WordPress error code.
+#: includes/importers/wordpress-importer/class-wxr-importer.php:1045
+msgid "Request failed due to an error: %1$s (%2$s)"
+msgstr "Ha fallado la solicitud debido a un error: %1$s (%2$s)"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:1026
+msgid "Could not create temporary file."
+msgstr "No se ha podido crear el archivo temporal."
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:265
+msgid "To make it simpler for you to edit and save the imported content, you may want to reassign the author of the imported item to an existing user of this site, such as your primary administrator account."
+msgstr "Para hacerte más fácil editar y guardar el contenido importado, puede que quieras reasignar el autor de los elementos importados a un usuario existente de este sitio, como la cuenta del administrador principal."
+
+#: includes/class-demo-importer.php:519 includes/class-demo-importer.php:547
+#: includes/class-demo-importer.php:583
+msgid "This demo requires %1$s version of %2$s plugin to get imported"
+msgstr "Para importar esta demostración, se necesita la versión %1$s del plugin %2$s"
+
+#: includes/class-demo-importer.php:511 includes/class-demo-importer.php:539
+#: includes/class-demo-importer.php:575
+msgid "This demo requires %1$s version of %2$s theme and %3$s version of %4$s plugin to get imported"
+msgstr "Para importar esta demostración, se necesita la versión %1$s del tema %2$s y la versión %3$s del plugin %4$s"
+
+#: includes/class-demo-importer.php:507 includes/class-demo-importer.php:535
+#: includes/class-demo-importer.php:543 includes/class-demo-importer.php:549
+#: includes/class-demo-importer.php:560 includes/class-demo-importer.php:579
+#: includes/class-demo-importer.php:585
+msgid "Companion Elementor"
+msgstr "Companion Elementor"
+
+#: includes/class-demo-importer.php:505 includes/class-demo-importer.php:515
+#: includes/class-demo-importer.php:521 includes/class-demo-importer.php:533
+#: includes/class-demo-importer.php:558
+msgid "Zakra Pro"
+msgstr "Zakra Pro"
+
+#: includes/class-demo-importer.php:501 includes/class-demo-importer.php:529
+msgid "This demo requires %1$s version of %2$s theme and %3$s version of %4$s as well as %5$s version of %6$s plugins to get imported"
+msgstr "Para importar esta demostración, se necesita la versión %1$s del tema %2$s y la versión %3$s de %4$s, así como la versión %5$s del plugin %6$s."
+
+#: includes/class-demo-importer.php:495 includes/class-demo-importer.php:566
+msgid "This demo requires %1$s version of %2$s theme to get imported"
+msgstr "Para importar esta demostración, se necesita la versión %1$s del tema %2$s"
+
+#: includes/admin/views/html-admin-page-importer.php:122
+#: includes/admin/views/html-admin-page-importer.php:155
+#: includes/admin/views/html-admin-page-importer.php:265
+msgid "Update"
+msgstr "Actualizar "
+
+#: includes/admin/views/html-admin-page-importer.php:18
+msgid "Refresh Demos"
+msgstr "Actualizar las demostraciones"
+
+#: includes/admin/views/html-admin-page-importer.php:16
+msgid "If you do not see the new demos on the list, please click this button to fetch all the available demos."
+msgstr "Si no ves en la lista las nuevas demostraciones, por favor, haz clic en este botón para buscar todas las demostraciones disponibles."
+
+#: includes/admin/class-plugin-deactivate-notice.php:62
+msgid "Deactivate"
+msgstr "Desactivar"
+
+#: includes/admin/class-plugin-deactivate-notice.php:50
+msgid "It seems you've imported the theme demo successfully. Now, the purpose of this plugin is fulfilled and it has no more use. So, if you're satisfied with this import, you can safely deactivate it by clicking the button."
+msgstr "Parece que has importado correctamente la demostración del tema. Ahora, el propósito de este plugin está completado y no tiene más uso. Por tanto, si estás satisfecho con esta importación, puedes desactivarlo con seguridad haciendo clic en el botón."
+
+#: includes/admin/views/html-admin-page-importer.php:81
+#: includes/admin/views/html-admin-page-importer.php:169
+msgid "Premium"
+msgstr "Premium"
+
+#: includes/class-demo-importer.php:213
+msgid "Confirm!"
+msgstr "¡Confirmar!"
+
+#: includes/class-demo-importer.php:196
+msgid "It will take some time to import the theme demo."
+msgstr "Llevará algo de tiempo importar la demostración del tema."
+
+#: includes/class-demo-importer.php:195
+msgid "None of the posts, pages, attachments or any other data already existing in your site will be deleted or modified."
+msgstr "No se borrará o modificará ninguna de las entradas, páginas, adjuntos o cualquier otro dato que ya exista en tu sitio."
+
+#: includes/class-demo-importer.php:194
+msgid "Copyright images will get replaced with other placeholder images."
+msgstr "Las imágenes con copyright serán reemplazadas con otros marcadores de posición de imágenes."
+
+#: includes/class-demo-importer.php:193
+msgid "It will install the required plugins as well as activate them for installing the required theme demo within your site."
+msgstr "Instalará los plugins necesarios y los activará para instalar la demostración obligatoria del tema en tu sitio."
+
+#: includes/class-demo-importer.php:192
+msgid "You need to import demo on fresh WordPress install to exactly replicate the theme demo."
+msgstr "Tienes que importar la demostración en una instalación nueva de WordPress para replicar exactamente la demostración del tema."
+
+#: includes/class-demo-importer.php:191
+msgid "Importing the demo on the site if you have already added the content is highly discouraged."
+msgstr "Importar la demostración en el sitio, si ya has añadido el contenido, es totalmente desaconsejado."
+
+#. translators: Before import warning texts
+#: includes/class-demo-importer.php:190
+msgid "Importing demo data will ensure that your site will look similar as theme demo. It makes you easy to modify the content instead of creating them from scratch. Also, consider before importing the demo: %1$s %2$s %3$s %4$s %5$s %6$s"
+msgstr "Importar los datos de demostración asegurará que tu sitio sea muy parecido a la demostración del tema. Te facilita modificar el contenido, en vez de crearlo desde cero. Además, antes de importar la demostración, plantéate: %1$s %2$s %3$s %4$s %5$s %6$s"
+
+#. Description of the plugin
+msgid "Import ThemeGrill official themes demo content, widgets and theme settings with just one click."
+msgstr "Importar el contenido de demostración de los temas oficiales de ThemeGrill, widgets y ajustes de tema con un solo clic."
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:1073
+msgid "Remote server did not respond"
+msgstr "El servidor remoto no ha respondido"
+
+#: includes/functions-demo-importer.php:37
+msgid "No plugin specified."
+msgstr "No se ha especificado ningún plugin."
+
+#. translators: %s: official ThemeGrill themes URL
+#: includes/class-themegrill-demo-importer.php:292
+msgid "Official ThemeGrill Theme"
+msgstr "Tema oficial de ThemeGrill"
+
+#. translators: %s: official ThemeGrill themes URL
+#: includes/class-themegrill-demo-importer.php:292
+msgid "This plugin requires %s to be activated to work."
+msgstr "Este plugin, para funcionar, necesita que esté activado %s."
+
+#: includes/class-demo-importer.php:595
+msgid "%s Pro"
+msgstr "%s Pro"
+
+#. translators: 1: ThemeGrill Demo Importer 2: five stars
+#: includes/class-demo-importer.php:242
+msgid "If you like %1$s please leave us a %2$s rating. A huge thanks in advance!"
+msgstr "Si te gusta %1$s, por favor, déjanos una valoración de %2$s. ¡Muchas gracias por adelantado!"
+
+#. translators: accessibility text
+#: includes/class-demo-importer.php:212
+msgid "Select one or more Demo features to filter by"
+msgstr "Selecciona una o más características de la demostración por las que filtrar"
+
+#: includes/class-demo-importer.php:210
+msgid "Expand Sidebar"
+msgstr "Expandir la barra lateral"
+
+#: includes/class-demo-importer.php:205
+msgid "Please suggest us!"
+msgstr "¡Por favor, recomiéndanos!"
+
+#: includes/class-demo-importer.php:204
+msgid "Try Again"
+msgstr "Inténtalo de nuevo"
+
+#. translators: %s: support forums URL
+#: includes/class-demo-importer.php:203
+msgid "An unexpected error occurred. Something may be wrong with ThemeGrill demo server&#8217;s configuration. If you continue to have problems, please try the <a href=\"%s\">support forums</a>."
+msgstr "Ha ocurrido un error inesperado. Puede que algo vaya mal con la configuración del servidor de la demostración de ThemeGrill. Si sigues teniendo problemas, por favor, prueba en los <a href=\"%s\">foros de soporte</a>."
+
+#: includes/admin/views/html-admin-page-importer.php:287
+msgid "Enter mobile preview mode"
+msgstr "Entrar en el modo de vista previa de móvil"
+
+#: includes/admin/views/html-admin-page-importer.php:284
+msgid "Enter tablet preview mode"
+msgstr "Entrar en el modo de vista previa de tableta"
+
+#: includes/admin/views/html-admin-page-importer.php:281
+msgid "Enter desktop preview mode"
+msgstr "Entrar en el modo de vista previa de escritorio"
+
+#: includes/admin/views/html-admin-page-importer.php:276
+msgid "Collapse"
+msgstr "Contraer"
+
+#: includes/admin/views/html-admin-page-importer.php:274
+#: includes/class-demo-importer.php:209
+msgid "Collapse Sidebar"
+msgstr "Contraer la barra lateral"
+
+#: includes/admin/views/html-admin-page-importer.php:246
+msgid "No plugins are required for this demo."
+msgstr "No se necesitan plugins para esta demostración."
+
+#: includes/admin/views/html-admin-page-importer.php:223
+msgid "Required Plugins"
+msgstr "Plugins necesarios"
+
+#. translators: %s: Theme Name
+#: includes/admin/views/html-admin-page-importer.php:195
+#: includes/admin/views/html-admin-page-importer.php:204
+msgid "%s theme is not active."
+msgstr "El tema %s no está activo."
+
+#: includes/admin/views/html-admin-page-importer.php:145
+msgctxt "Button label for a demo"
+msgid "Next"
+msgstr "Siguiente"
+
+#: includes/admin/views/html-admin-page-importer.php:144
+msgctxt "Button label for a demo"
+msgid "Previous"
+msgstr "Anterior"
+
+#: includes/admin/views/html-admin-page-importer.php:143
+msgid "Close"
+msgstr "Cerrar"
+
+#: includes/admin/views/html-admin-page-importer.php:116
+#: includes/admin/views/html-admin-page-importer.php:118
+#: includes/admin/views/html-admin-page-importer.php:147
+#: includes/admin/views/html-admin-page-importer.php:149
+#: includes/admin/views/html-admin-page-importer.php:257
+#: includes/admin/views/html-admin-page-importer.php:259
+msgid "Buy Now"
+msgstr "Comprar ahora"
+
+#: includes/admin/views/html-admin-page-importer.php:63
+msgid "Themes list"
+msgstr "Lista de temas"
+
+#: includes/admin/views/html-admin-page-importer.php:54
+msgid "Without Page Builder"
+msgstr "Sin constructor de páginas"
+
+#: includes/admin/views/html-admin-page-importer.php:22
+msgid "Upcoming Demos"
+msgstr "Próximas demostraciones"
+
+#: includes/functions-demo-importer.php:565
+msgid "Show more details"
+msgstr "Mostrar más detalles"
+
+#. translators: %s: Number of failed installs
+#: includes/functions-demo-importer.php:562
+msgid "%s installs failed."
+msgstr "%s instalaciones fallidas."
+
+#. translators: %s: Number of failed installs
+#: includes/functions-demo-importer.php:557
+msgid "%s install failed."
+msgstr "%s instalación fallida."
+
+#. translators: %s: Number of plugins
+#: includes/functions-demo-importer.php:547
+msgid "%s plugins successfully installed."
+msgstr "%s plugins instalados correctamente."
+
+#. translators: %s: Number of plugins
+#: includes/functions-demo-importer.php:540
+msgid "%s plugin successfully installed."
+msgstr "%s plugin instalado correctamente."
+
+#: includes/admin/views/html-admin-page-importer.php:89
+#: includes/admin/views/html-admin-page-importer.php:177
+msgid "Pro"
+msgstr "Pro"
+
+#: includes/class-themegrill-demo-importer.php:50
+#: includes/class-themegrill-demo-importer.php:59
+msgid "Cheatin&#8217; huh?"
+msgstr "Haciendo trampas, ¿eh?"
+
+#: includes/admin/class-plugin-deactivate-notice.php:78
+#: includes/class-demo-importer.php:1336
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Acción fallida. Por favor, refresca la página e inténtalo de nuevo."
+
+#: includes/class-demo-importer.php:308
+msgid "Official plugins"
+msgstr "Plugins oficiales"
+
+#: includes/class-demo-importer.php:307
+msgid "Official themes"
+msgstr "Temas oficiales"
+
+#: includes/class-demo-importer.php:306
+msgid "Github project"
+msgstr "Proyecto en GitHub"
+
+#: includes/class-demo-importer.php:305
+msgid "WordPress.org project"
+msgstr "Proyecto en WordPress.org"
+
+#: includes/class-demo-importer.php:304
+msgid "About Demo Importer"
+msgstr "Acerca del importador de demostraciones"
+
+#: includes/class-demo-importer.php:303
+msgid "For more information:"
+msgstr "Para más información:"
+
+#: includes/class-demo-importer.php:297
+msgid "Report a bug"
+msgstr "Informar de un fallo"
+
+#. translators: %s: GitHub links
+#: includes/class-demo-importer.php:293
+msgid "If you find a bug within ThemeGrill Demo Importer you can create a ticket via <a href=\"%1$s\">Github issues</a>. Ensure you read the <a href=\"%2$s\">contribution guide</a> prior to submitting your report. To help us solve your issue, please be as descriptive as possible."
+msgstr "Si encuentras un error en ThemeGrill Demo Importer, puedes crear un tique en los <a href=\"%1$s\">problemas de Github</a>. Asegúrate de leer la <a href=\"%2$s\">guía de colaboración</a> antes de enviar tu informe. Para ayudarnos a resolver tu problema, por favor, sé lo más descriptivo posible."
+
+#: includes/class-demo-importer.php:288 includes/class-demo-importer.php:290
+msgid "Found a bug?"
+msgstr "¿Has encontrado un fallo?"
+
+#: includes/class-demo-importer.php:281
+msgid "ThemeGrill Support"
+msgstr "Soporte de ThemeGrill"
+
+#: includes/class-demo-importer.php:281
+msgid "Community forum"
+msgstr "Foro de la comunidad"
+
+#. translators: 1: WP support URL. 2: TG support URL
+#: includes/class-demo-importer.php:277
+msgid "For further assistance with ThemeGrill Demo Importer core you can use the <a href=\"%1$s\">community forum</a>. If you need help with premium themes sold by ThemeGrill, please <a href=\"%2$s\">use our free support forum</a>."
+msgstr "Para obtener más ayuda con el núcleo de ThemeGrill Demo Importer, puedes utilizar el <a href=\"%1$s\">foro de la comunidad</a>. Si necesitas ayuda con temas premium vendidos por ThemeGrill, por favor, <a href=\"%2$s\">usa nuestro foro de soporte gratuito</a>."
+
+#. translators: %s: Documentation URL
+#: includes/class-demo-importer.php:272
+msgid "Should you need help understanding, using, or extending ThemeGrill Demo Importer, <a href=\"%s\">please read our documentation</a>. You will find all kinds of resources including snippets, tutorials and much more."
+msgstr "Si necesitas ayuda para entender, usar o ampliar ThemeGrill Demo Importer, por favor, <a href=\"%s\">lee nuestra documentación</a>. Encontrarás todo tipo de recursos, incluyendo fragmentos de código, tutoriales y mucho más."
+
+#: includes/class-demo-importer.php:267 includes/class-demo-importer.php:269
+msgid "Help &amp; Support"
+msgstr "Ayuda y soporte"
+
+#: includes/class-demo-importer.php:247
+msgid "Thank you for importing with ThemeGrill Demo Importer."
+msgstr "Gracias por importar con ThemeGrill Demo Importer."
+
+#: includes/class-demo-importer.php:244
+msgid "Thanks :)"
+msgstr "Gracias :)"
+
+#. Author URI of the plugin
+msgid "https://themegrill.com"
+msgstr "https://themegrill.com"
+
+#. Plugin URI of the plugin
+msgid "https://themegrill.com/demo-importer/"
+msgstr "https://themegrill.com/demo-importer/"
+
+#. Plugin Name of the plugin
+#. translators: %s: official ThemeGrill themes URL
+#: includes/class-demo-importer.php:243
+#: includes/class-themegrill-demo-importer.php:292
+msgid "ThemeGrill Demo Importer"
+msgstr "ThemeGrill Demo Importer"
+
+#: includes/class-themegrill-demo-importer.php:276
+msgid "Free Support"
+msgstr "Soporte gratuito"
+
+#: includes/class-themegrill-demo-importer.php:276
+msgid "Visit Free Customer Support Forum"
+msgstr "Visita el foro de soporte gratuito para clientes"
+
+#: includes/class-themegrill-demo-importer.php:275
+msgid "Docs"
+msgstr "Documentación"
+
+#: includes/class-themegrill-demo-importer.php:275
+msgid "View Demo Importer Documentation"
+msgstr "Ver la documentación del importador de demostraciones"
+
+#: includes/class-themegrill-demo-importer.php:259
+msgid "View Demo Importer"
+msgstr "Ver el importador de demostraciones"
+
+#: includes/importers/wordpress-importer/class-wxr-parser-regex.php:96
+#: includes/importers/wordpress-importer/class-wxr-parser-simplexml.php:41
+#: includes/importers/wordpress-importer/class-wxr-parser-simplexml.php:46
+#: includes/importers/wordpress-importer/class-wxr-parser-xml.php:48
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr "Esto no parece ser un archivo WXR, falta o no es válido el número de versión WXR"
+
+#: includes/importers/wordpress-importer/class-wxr-parser.php:43
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr "Los detalles se muestran arriba. El importador lo intentará de nuevo con un analizador diferente..."
+
+#: includes/importers/wordpress-importer/class-wxr-parser-simplexml.php:29
+#: includes/importers/wordpress-importer/class-wxr-parser-simplexml.php:37
+#: includes/importers/wordpress-importer/class-wxr-parser.php:42
+msgid "There was an error when reading this WXR file"
+msgstr "Se ha producido un error al leer el archivo WXR"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:1273
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr "Elige un archivo WXR (.xml) para subir, luego haz clic en \"Subir archivo\" para importarlo."
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:1272
+msgid "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import the posts, pages, comments, custom fields, categories, and tags into this site."
+msgstr "¡Hola! Sube tu archivo WordPress eXtended RSS (WXR) e importaremos en este sitio todas las entradas, páginas, comentarios, campos personalizados, categorías y etiquetas."
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:1257
+msgid "A new version of this importer is available. Please update to version %s to ensure compatibility with newer export files."
+msgstr "Hay disponible una nueva versión del importador. Por favor, actualiza a la versión %s para asegurar la compatibilidad con los nuevos archivos de exportación."
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:1250
+msgid "Import WordPress"
+msgstr "Importar WordPress"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:1091
+msgid "Remote file is too large, limit is %s"
+msgstr "El archivo remoto es demasiado grande, el límite es de %s"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:1080
+msgid "Zero size file downloaded"
+msgstr "Descargado un archivo vacío"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:987
+msgid "Invalid file type"
+msgstr "Tipo de archivo no válido"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:974
+msgid "Fetching attachments is not enabled"
+msgstr "La obtención de los archivos adjuntos no está activada"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:911
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr "Elemento de menú omitido debido a un slug de menú no válido: %s"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:904
+msgid "Menu item skipped due to missing menu slug"
+msgstr "Elemento del menú omitido por tener un slug desconocido"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:730
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr "Fallo al importar %s «%s»"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:668
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr "%s «%s» ya existe."
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:631
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr "Fallo al importar «%s»: Tipo de contenido %s no válido"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:538
+#: includes/importers/wordpress-importer/class-wxr-importer.php:764
+msgid "Failed to import %s %s"
+msgstr "Fallo al importar %s %s"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:483
+msgid "Failed to import post tag %s"
+msgstr "Fallo al importar la etiqueta de la entrada %s"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:438
+msgid "Failed to import category %s"
+msgstr "Fallo al importar la categoría %s"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:386
+msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgstr "Fallo al crear el nuevo usuario para %s. Sus entradas se atribuirán al usuario actual."
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:332
+msgid "- Select -"
+msgstr "- Seleccionar -"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:324
+msgid "or assign posts to an existing user:"
+msgstr "o asignar entradas a un usuario existente:"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:322
+msgid "assign posts to an existing user:"
+msgstr "asignar entradas a un usuario existente:"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:312
+msgid "as a new user:"
+msgstr "como usuario nuevo:"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:309
+msgid "or create new user with login name:"
+msgstr "o crear un nuevo usuario con el nombre de acceso:"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:297
+msgid "Import author:"
+msgstr "Importar autor:"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:284
+msgid "Submit"
+msgstr "Enviar"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:280
+msgid "Download and import file attachments"
+msgstr "Descarga e importa archivos adjuntos"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:277
+msgid "Import Attachments"
+msgstr "Importar adjuntos"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:267
+msgid "If a new user is created by WordPress, a new password will be randomly generated and the new user&#8217;s role will be set as %s. Manually changing the new user&#8217;s details will be necessary."
+msgstr "Si WordPress crea un nuevo usuario, se generará automáticamente una nueva contraseña al azar y el perfil del usuario se establecerá a %s. Será necesario un cambio manual de los detalles del nuevo usuario."
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:264
+msgid "Assign Authors"
+msgstr "Asignar autores"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:238
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr "Fallo al importar el autor %s. Sus entradas serán atribuidas al usuario actual."
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:213
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr "Este archivo WXR (versión %s) podría no ser compatible con esta versión del importador. Por favor, plantéate actualizarlo."
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:197
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr "El archivo de exportación no se ha podido encontrar en <code>%s</code>. Es probable que sea debido a un problema de permisos."
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:177
+msgid "Remember to update the passwords and roles of imported users."
+msgstr "Acuérdate de cambiar las contraseñas y perfiles de los usuarios importados."
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:176
+msgid "Have fun!"
+msgstr "¡Pásalo bien!"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:176
+msgid "All done."
+msgstr "Todo hecho."
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:133
+msgid "The file does not exist, please try again."
+msgstr "El archivo no existe, por favor, inténtalo de nuevo."
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:132
+#: includes/importers/wordpress-importer/class-wxr-importer.php:141
+#: includes/importers/wordpress-importer/class-wxr-importer.php:192
+#: includes/importers/wordpress-importer/class-wxr-importer.php:196
+#: includes/importers/wordpress-importer/class-wxr-importer.php:205
+msgid "Sorry, there has been an error."
+msgstr "Lo siento, ha ocurrido un error."
+
+#: includes/class-demo-importer.php:708
+#: includes/functions-demo-importer.php:117
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr "No ha sido posible conectar con el sistema de archivos. Por favor, confirma tus credenciales."
+
+#: includes/importers/class-widget-importer.php:196
+msgid "No Title"
+msgstr "Sin título"
+
+#: includes/importers/class-widget-importer.php:190
+msgid "Imported to Inactive"
+msgstr "Importado como inactivo"
+
+#: includes/importers/class-widget-importer.php:187
+msgid "Imported"
+msgstr "Importado"
+
+#: includes/importers/class-widget-importer.php:128
+msgid "Widget already exists"
+msgstr "El widget ya existe"
+
+#: includes/importers/class-widget-importer.php:93
+msgid "Site does not support widget"
+msgstr "El sitio no permite widgets"
+
+#: includes/importers/class-widget-importer.php:71
+msgid "Sidebar does not exist in theme (moving widget to Inactive)"
+msgstr "La barra lateral no existe en el tema (el widget aparecerá con los inactivos)"
+
+#: includes/importers/class-widget-importer.php:34
+msgid "Widget import data could not be read. Please try a different file."
+msgstr "No se han podido leer los datos de importación de widget. Prueba con otro archivo."
+
+#: includes/importers/class-customizer-importer.php:40
+msgid "The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme."
+msgstr "El archivo de importación del personalizador no es adecuado para el tema actual. Sólo puedes importar la configuración del personalizador para el mismo tema o para un tema hijo."
+
+#: includes/importers/class-customizer-importer.php:36
+msgid "The customizer import file is not in a correct format. Please make sure to use the correct customizer import file."
+msgstr "El fichero de importación del personalizador no tiene el formato correcto. Por favor, asegúrate de utilizar el archivo de importación del personalizador correcto."
+
+#: includes/admin/views/html-admin-page-importer.php:31
+msgid "Filter demos list"
+msgstr "Filtrar la lista de demos"
+
+#: includes/admin/views/html-admin-page-importer.php:218
+msgid "Plugins Information"
+msgstr "Información de plugins"
+
+#. translators: %s: Demo version
+#: includes/admin/views/html-admin-page-importer.php:211
+msgid "Version: %s"
+msgstr "Versión: %s"
+
+#: includes/admin/views/html-admin-page-importer.php:153
+#: includes/admin/views/html-admin-page-importer.php:160
+#: includes/admin/views/html-admin-page-importer.php:263
+#: includes/admin/views/html-admin-page-importer.php:270
+msgid "Import Demo"
+msgstr "Importar demostración"
+
+#: includes/admin/views/html-admin-page-importer.php:136
+msgctxt "demo"
+msgid "Imported"
+msgstr "Importada"
+
+#: includes/admin/views/html-admin-page-importer.php:130
+#: includes/admin/views/html-admin-page-importer.php:294
+msgid "Preview"
+msgstr "Previsualizar"
+
+#. translators: %s: Demo name
+#: includes/admin/views/html-admin-page-importer.php:126
+msgctxt "demo"
+msgid "Import %s"
+msgstr "Importar %s"
+
+#: includes/admin/views/html-admin-page-importer.php:128
+msgid "Import"
+msgstr "Importar"
+
+#. translators: %s: Demo name
+#: includes/admin/views/html-admin-page-importer.php:104
+msgid "<span>Imported:</span> %s"
+msgstr "<span>Importado:</span> %s"
+
+#. translators: %s: Demo author name
+#. translators: 1. Plugin author name.
+#: includes/admin/views/html-admin-page-importer.php:95
+#: includes/admin/views/html-admin-page-importer.php:184
+#: includes/admin/views/html-admin-page-system-status-report.php:287
+#: includes/admin/views/html-admin-page-system-status-report.php:334
+msgid "By %s"
+msgstr "Por %s"
+
+#: includes/admin/views/html-admin-page-importer.php:28
+msgid "The Demo Importer screen requires JavaScript."
+msgstr "La pantalla de Demo Importer necesita JavaScript."
+
+#: includes/admin/class-demo-pack-upgrader.php:121
+msgid "No valid demos were found."
+msgstr "No se encontraron demos válidas."
+
+#: includes/admin/class-demo-pack-upgrader.php:44
+msgid "Demo installed successfully."
+msgstr "Demo instalada correctamente."
+
+#: includes/admin/class-demo-pack-upgrader.php:43
+msgid "Demo install failed."
+msgstr "Ha fallado la instalación de la demo."
+
+#: includes/admin/class-demo-pack-upgrader.php:42
+msgid "The demo contains no files."
+msgstr "La demo no contiene ningún archivo."
+
+#: includes/admin/class-demo-pack-upgrader.php:41
+msgid "Installing the demo&#8230;"
+msgstr "Instalando la demo&#8230;"
+
+#: includes/admin/class-demo-pack-upgrader.php:40
+msgid "Could not remove the old demo."
+msgstr "No se ha podido eliminar la demostración antigua."
+
+#: includes/admin/class-demo-pack-upgrader.php:39
+msgid "Removing the old version of the demo&#8230;"
+msgstr "Eliminando la versión antigua de la demostración..."
+
+#: includes/admin/class-demo-pack-upgrader.php:38
+msgid "Unpacking the package&#8230;"
+msgstr "Descomprimiendo el paquete&#8230;"
+
+#. translators: %s: package URL
+#: includes/admin/class-demo-pack-upgrader.php:37
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Descargado e instalando paquete de <span class=\"code\">%s</span>&#8230;"
+
+#: includes/admin/class-demo-pack-upgrader.php:35
+msgid "Install package not available."
+msgstr "Paquete de instalación no disponible."
+
+#: includes/class-demo-importer.php:912
+msgid "The WIE file widget content is missing."
+msgstr "Falta archivo WIE de contenido de widgets."
+
+#: includes/class-demo-importer.php:887
+msgid "The DAT file customizer data is missing."
+msgstr "Falta el archivo DAT de datos del personalizador."
+
+#: includes/class-demo-importer.php:791
+msgid "The XML file dummy content is missing."
+msgstr "Falta el archivo XML de contenido ficticio."
+
+#: includes/class-demo-importer.php:676
+msgid "Sorry, you are not allowed to import content."
+msgstr "Lo siento, no tienes permiso para importar contenido."
+
+#: includes/class-demo-importer.php:660
+msgid "No demo specified."
+msgstr "No se ha especificado ninguna demostración."
+
+#: includes/functions-demo-importer.php:51
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr "Lo siento, no tienes permisos para instalar plugins en este sitio."
+
+#. Author of the plugin
+#: includes/class-demo-importer.php:600
+msgid "ThemeGrill"
+msgstr "ThemeGrill"
+
+#: includes/admin/views/html-admin-page-importer.php:67
+#: includes/class-demo-importer.php:208
+msgid "No demos found. Try a different search."
+msgstr "No se han encontrado demostraciones. Prueba con otra búsqueda."
+
+#. translators: %d: Number of demos.
+#: includes/class-demo-importer.php:207
+msgid "Number of Demos found: %d"
+msgstr "Número de demostraciones encontradas: %d"
+
+#: includes/class-demo-importer.php:201
+msgid "Search demos..."
+msgstr "Buscar demostraciones..."
+
+#: includes/class-demo-importer.php:200
+msgid "Search Demos"
+msgstr "Buscar demostraciones"
+
+#: includes/admin/views/html-admin-page-importer.php:113
+#: includes/admin/views/html-admin-page-importer.php:158
+#: includes/admin/views/html-admin-page-importer.php:268
+#: assets/js/admin/demo-updates.js:114
+msgid "Live Preview"
+msgstr "Vista previa en vivo"
+
+#: includes/class-demo-importer.php:136
+msgctxt "Admin menu name"
+msgid "Demo Importer"
+msgstr "Importador de la demostración"
+
+#: includes/admin/views/html-admin-page-importer.php:12
+#: includes/class-demo-importer.php:120
+#: includes/class-themegrill-demo-importer.php:259
+msgid "Demo Importer"
+msgstr "Demo Importer"
